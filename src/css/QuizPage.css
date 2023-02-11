@@ -1,0 +1,90 @@
+.quiz-page-wrapper {
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/WaterLiliesBlurred.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #FDFFF7;
+    text-align: center;
+}
+
+.quiz-page-popup {
+    background-color: #FDFFF7;
+    border-radius: 8px;
+    display: inline-block;
+    margin: 10vh 10vh 10vh 10vh;
+    width: calc(100% - 20vh);
+    height: 80vh;
+    box-shadow: 0 8px 15px -4px black;
+    border: 1px solid #FDFFF7;
+}
+
+.question-number {
+    color: #3A76A5;
+    font-size: 6.5vh;
+    margin: 3vh 0 0 0;
+}
+
+.question {
+    color: #3A76A5;
+    width: 84%;
+    margin: 0 8% 4vh 8%;
+}
+
+.quiz-table {
+    width: 60%;
+    margin: 0 20% 0 20%;
+}
+
+.quiz-table td {
+    width: 50%;
+    height: 25vh;
+}
+
+.quiz-table img {
+    width: 95%;
+    height: 80%;
+    object-fit: cover;
+    border-radius: 8px;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    background-color: #ABBFB6;
+}
+
+.quiz-table img:hover {
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03);
+}
+
+.answer-caption {
+    margin: 0;
+    color: #25302B;
+    font-family: HKGrotesk-Italic;
+}
+
+.result-img {
+    width: 70%;
+    margin: 2vh 15% 0 15%;
+    height: 50vh;
+    object-fit: contain;
+}
+
+.border-button-results {
+    background-color: transparent;
+    border: 0.2vh solid #3A76A5;
+    border-radius: 8px;
+    margin: 2vh 1vh 0 1vh;
+    transition: .3s;
+}
+
+.border-button-results-p {
+    color: #3A76A5;
+    margin: 1vh 3vh 1vh 3vh;
+    font-family: HKGrotesk-Italic
+}
+
+.border-button-results:hover {
+    background-color: #d8c7d9a7;
+}

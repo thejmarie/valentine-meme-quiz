@@ -1,38 +1,39 @@
+@font-face {
+  font-family: "Richness";
+  src: local("Richness"),
+    url("./fonts/richness-demo.regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HKGrotesk";
+  src: local("HKGrotesk"),
+    url("./fonts/HKGrotesk-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HKGrotesk-Italic";
+  src: local("HKGrotesk-Italic"),
+    url("./fonts/HKGrotesk-LightItalic.ttf") format("truetype");
+}
+
 .App {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+h1 {
+  font-family: "Richness";
+  font-weight: 200;
+  margin: 0;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p {
+  text-align: center;
+  font-size: 2.45vh;
+  font-family: HKGrotesk;
 }
