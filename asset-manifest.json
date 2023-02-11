@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/valentine-meme-quiz/static/css/main.7a9000af.css",
+    "main.js": "/valentine-meme-quiz/static/js/main.a013a4c6.js",
+    "static/js/787.e37a4c90.chunk.js": "/valentine-meme-quiz/static/js/787.e37a4c90.chunk.js",
+    "static/media/letterStyled.png": "/valentine-meme-quiz/static/media/letterStyled.730170e498993e549c9b.png",
+    "static/media/WaterLiliesBlurred.jpg": "/valentine-meme-quiz/static/media/WaterLiliesBlurred.931b85250bda28834fb6.jpg",
+    "static/media/WaterLilies.jpg": "/valentine-meme-quiz/static/media/WaterLilies.23cd4cb6642c12a4be68.jpg",
+    "static/media/memeA.jpg": "/valentine-meme-quiz/static/media/memeA.a211eeefbf92d51b1036.jpg",
+    "static/media/memeC.jpg": "/valentine-meme-quiz/static/media/memeC.c94a0e060d421b991533.jpg",
+    "static/media/richness-demo.regular.ttf": "/valentine-meme-quiz/static/media/richness-demo.regular.ff0654046540a678e8e4.ttf",
+    "static/media/HKGrotesk-LightItalic.ttf": "/valentine-meme-quiz/static/media/HKGrotesk-LightItalic.b0ffcdfd42cf94b48ce1.ttf",
+    "static/media/HKGrotesk-Light.ttf": "/valentine-meme-quiz/static/media/HKGrotesk-Light.9a97665402453e130e4d.ttf",
+    "static/media/memeD.jpg": "/valentine-meme-quiz/static/media/memeD.e0f02cfc053e7e1d3adc.jpg",
+    "static/media/memeB.jpg": "/valentine-meme-quiz/static/media/memeB.aa02d75b4a23c57cbfe5.jpg",
+    "index.html": "/valentine-meme-quiz/index.html",
+    "main.7a9000af.css.map": "/valentine-meme-quiz/static/css/main.7a9000af.css.map",
+    "main.a013a4c6.js.map": "/valentine-meme-quiz/static/js/main.a013a4c6.js.map",
+    "787.e37a4c90.chunk.js.map": "/valentine-meme-quiz/static/js/787.e37a4c90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a9000af.css",
+    "static/js/main.a013a4c6.js"
+  ]
+}
